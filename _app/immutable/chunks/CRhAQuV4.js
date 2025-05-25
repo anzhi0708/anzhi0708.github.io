@@ -1,0 +1,1 @@
+import{e as o,h as t,l as c,i as l}from"./BZmi-p07.js";function u(n){throw new Error("https://svelte.dev/e/lifecycle_outside_component")}function r(n){t===null&&u(),c&&t.l!==null?a(t).m.push(n):o(()=>{const e=l(n);if(typeof e=="function")return e})}function a(n){var e=n.l;return e.u??(e.u={a:[],b:[],m:[]})}export{r as o};
